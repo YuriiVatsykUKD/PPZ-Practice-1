@@ -1,0 +1,7 @@
+.git
+azure-pipelines.yml
+Dockerfile
+README.md
+kubernetes
+composer.json
+composer.lock
